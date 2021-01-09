@@ -13,7 +13,12 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [Securelist: Sunburst - connecting the dots in the DNS requests](https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/)
 1. [Reuters: Suspected Russian hackers used Microsoft vendors to breach customers](https://www.reuters.com/article/us-global-cyber-usa-idUSKBN28Y1BF)
 1. [Bleeping Computer: The SolarWinds cyberattack - The hack victims and what we know](https://www.bleepingcomputer.com/news/security/the-solarwinds-cyberattack-the-hack-the-victims-and-what-we-know/)
-
+1. [Security Week: Continuous Updates: Everything You Need to Know About the SolarWinds Attack](https://www.securityweek.com/continuous-updates-everything-you-need-know-about-solarwinds-attack)
+1. [Security Week: SolarWinds Likely Hacked at Least One Year Before Breach Discovery](https://www.securityweek.com/solarwinds-likely-hacked-least-one-year-breach-discovery)
+1. [Security Week: New Zero-Day, Malware Indicate Second Group May Have Targeted SolarWinds](https://www.securityweek.com/new-zero-day-malware-indicate-second-group-may-have-targeted-solarwinds)
+1. [Security Week: SolarWinds Taps Firm Started by Ex-CISA Chief Chris Krebs, Former Facebook CSO Alex Stamos](https://www.securityweek.com/solarwinds-taps-firm-launched-cisa-chief-chris-krebs-former-facebook-cso-alex-stamos)
+1. [Schneier: Russia's SolarWinds Attack](https://www.schneier.com/blog/archives/2020/12/russias-solarwinds-attack.html)
+1. [Forbes: 1,500 SolarWinds Customers Are Exposing Themselves To Hackers As 'Russian' Espionage Continues](https://www.forbes.com/sites/thomasbrewster/2021/01/06/1500-solarwinds-customers-are-exposing-themselves-to-hackers-as-russian-espionage-continues/)
 ## Technical Guidance & Analysis
 ### SolarWinds
 1. [Security Advisory](https://www.solarwinds.com/securityadvisory)
@@ -43,3 +48,5 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 ### CISA / US-CERT
 1. [AA20-252A: Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
 1. [AA21-008A: Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://us-cert.cisa.gov/ncas/alerts/aa21-008a)
+### NCSC
+1. [NCSC Enhanced Guidance on SolarWinds Incident: TLP Amber](https://share.cisp.org.uk/community/ncsc-publications/blog/2020/12/21/enhanced-guidance-on-solarwinds-incident)
