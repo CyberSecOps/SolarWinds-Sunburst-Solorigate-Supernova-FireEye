@@ -26,7 +26,8 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [Sunburst Malware](https://www.fireeye.com/current-threats/sunburst-malware.html) 
 1. [Sunburst Additional Technical Details](https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html)
 1. [Global Intrusion Campaign Leverages Software Supply Chain Compromise](https://www.fireeye.com/blog/products-and-services/2020/12/global-intrusion-campaign-leverages-software-supply-chain-compromise.html)
-1. [Highly Evasive Attacker LEverages SolarWinds Supply Chain to Compromise Multiple Global Victims with SUNBURST backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
+1. [Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims with SUNBURST backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
+1. [Mandiant UNC2452 - Highly Evasive Attacker LEverages Supply Chain to Compromise Targets Presentation Slides](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/Technical%20Guidance%20%26%20Analysis/Mandiant%20UNC2452%20-%20Highly%20Evasive%20Attacker%20LEverages%20Supply%20Chain%20to%20Compromise%20Targets%20-%20Presentation.pdf)
 1. [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 1. [Unauthorized Access of FireEye Red Team Tools](https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html)
 1. [FireEye Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures)
@@ -35,7 +36,6 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [Sunburst Malware Overview](https://advantage.mandiant.com/malware/malware--4d299cfd-ffd7-5e46-b30c-cc88ac5a57c1)
 1. [Sunburst Malware Profile](https://advantage.mandiant.com/reports/20-00025662)
 1. [Teardrop Malware Overview](https://advantage.mandiant.com/malware/malware--3baa3d65-a3fe-5284-a3ab-8007fff7fe78)
-1. [Mandiant UNC2452 - Highly Evasive Attacker LEverages Supply Chain to Compromise Targets Presentation Slides](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/Technical%20Guidance%20%26%20Analysis/Mandiant%20UNC2452%20-%20Highly%20Evasive%20Attacker%20LEverages%20Supply%20Chain%20to%20Compromise%20Targets%20-%20Presentation.pdf)
 ### Microsoft
 1. [Solorigate Resource Center](https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/)
 1. [Important steps for customers to protect themselves from recent nation-state cyberattacks](https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/)
