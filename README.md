@@ -9,7 +9,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [**Reuters**: Experts who wrestled with SolarWinds hackers say cleanup could take months - or longer](https://www.reuters.com/article/us-global-cyber-usa-solarwinds-idUSKBN28Y1K3)
 1. [**CyberScoop**: Microsoft alerts Crowdstrike of hackers' attempted break-in](https://www.cyberscoop.com/crowdstrike-solarwinds-targeted-microsoft/)
 1. [**CyberScoop**: NSA warns defense contractors of potential SolarWinds fallout](https://www.cyberscoop.com/nsa-warns-defense-contractors-solarwinds-fallout-vmware/)
-1. [The Intercept: SolarWinds Hack Infected Critical Infrastructure](https://theintercept.com/2020/12/24/solarwinds-hack-power-infrastructure/)
+1. [**The Intercept**: SolarWinds Hack Infected Critical Infrastructure](https://theintercept.com/2020/12/24/solarwinds-hack-power-infrastructure/)
 1. [**Securelist**: Sunburst - connecting the dots in the DNS requests](https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/)
 1. [**Reuters**: Suspected Russian hackers used Microsoft vendors to breach customers](https://www.reuters.com/article/us-global-cyber-usa-idUSKBN28Y1BF)
 1. [**Bleeping Computer**: The SolarWinds cyberattack - The hack victims and what we know](https://www.bleepingcomputer.com/news/security/the-solarwinds-cyberattack-the-hack-the-victims-and-what-we-know/)
@@ -46,9 +46,10 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [SolarWinds Post-Compromise Hunting with Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/solarwinds-post-compromise-hunting-with-azure-sentinel/ba-p/1995095)
 1. [Understanding "Solorigate's" Identity IOC's - for Identity Vendors and their customers](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610)
 1. [Azure AD workbook to help you assess Solorigate risk](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718)
-### **CISA / US-CERT**
+### **CISA / US-CERT / DHS**
 1. [AA20-252A: Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
 1. [AA21-008A: Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://us-cert.cisa.gov/ncas/alerts/aa21-008a)
+1. [**Emergency Directive 21-01**: Mitigate SolarWinds Orion Code Compromise](https://cyber.dhs.gov/ed/21-01/)
 ### **NCSC**
 1. [NCSC Enhanced Guidance on SolarWinds Incident: TLP Amber](https://share.cisp.org.uk/community/ncsc-publications/blog/2020/12/21/enhanced-guidance-on-solarwinds-incident)
 ### NSA
@@ -64,3 +65,11 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [**Palo Alto's UNIT42**: SolarStorm Timeline - Details of the Software Supply-Chain Attack](https://unit42.paloaltonetworks.com/solarstorm-supply-chain-attack-timeline/)
 1. [**SentinelLabs**: SolarWinds - Understanding & Detecting the SUPERNOVA Webshell Trojan](https://labs.sentinelone.com/solarwinds-understanding-detecting-the-supernova-webshell-trojan/)
 1. [**Check Point Research**: SUNBURST, TEARDROP and the NetSec New Normal](https://research.checkpoint.com/2020/sunburst-teardrop-and-the-netsec-new-normal/)
+1. [**Sygnia**: Detection of Golden SAML attacks](https://www.sygnia.co/golden-saml-advisory)
+1. [**Fortinet FortiGuard Labs**: What We Have Learned So Far about the "Sunburst"-SolarWinds Hack](https://www.fortinet.com/blog/threat-research/what-we-have-learned-so-far-about-the-sunburst-solarwinds-hack)
+1. [**TrustedSec**: SolarWinds Backdoor (Sunburst) Incident Response Playbook](https://www.trustedsec.com/blog/solarwinds-backdoor-sunburst-incident-response-playbook/)
+1. [**TrustedSec**: SolarWinds Orion and UNC2452 - Summary and Recommendations](https://www.trustedsec.com/blog/solarwinds-orion-and-unc2452-summary-and-recommendations/)
+### **Other Security Researchers**
+1. [**SimeonOnSecurity.ch**: SolarWinds Orion Supply Chain Compromised, C2, and Mitigations](https://simeononsecurity.ch/github/solarwinds-orion-mitigations/)
+1. [**SimeonOnSecurity.ch**: GitHub - SolarWinds Sunburst Countermeasures](https://github.com/simeononsecurity/SolarWinds-SunBurst-Countermeasures)
+1. [**Carnegie Mellon CERT Coordination Center**: Vulnerability Note VU#843464 SolarWinds Orion API authentication bypass allows remote code execution](https://kb.cert.org/vuls/id/843464)
