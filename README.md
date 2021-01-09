@@ -51,3 +51,16 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [AA21-008A: Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://us-cert.cisa.gov/ncas/alerts/aa21-008a)
 ### NCSC
 1. [NCSC Enhanced Guidance on SolarWinds Incident: TLP Amber](https://share.cisp.org.uk/community/ncsc-publications/blog/2020/12/21/enhanced-guidance-on-solarwinds-incident)
+### NSA
+1. [Detecting Abuse of Authentication Mechanisms](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/Files/NSA%20-%20Detecting%20Abuse%20of%20Authentication%20Mechanisms.PDF)
+### Other Security Vendors
+1. [Recorded Future: SolarWinds Attribution - Are We Getting Ahead of Ourselves?](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/Files/SolarWinds%20Attribution%20-%20Are%20We%20Getting%20Ahead%20of%20Ourselves%20(Recorded%20Future).pdf)
+1. [Recorded Future: SolarWinds: What the Intelligence Tells Us](https://www.recordedfuture.com/solarwinds-attack-update/)
+1. [Splunk: Using Splunk to Detect Sunburst Backdoor](https://www.splunk.com/en_us/blog/security/sunburst-backdoor-detections-in-splunk.html)
+1. [Splunk: A Golden SAML Journey - SolarWinds Continued](https://www.splunk.com/en_us/blog/security/a-golden-saml-journey-solarwinds-continued.html)
+1. [Volexity: Responding to the SolarWinds Breach - Detect, Prevent, and Remediate the Dark Halo Supply Chain Attack](https://www.volexity.com/blog/2020/12/16/responding-to-the-solarwinds-breach/)
+1. [Volexity: Dark Halo Leverages SolarWinds Compromise to Breach Organizations](https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/)
+1. [Crowdstrike: Assessing the SolarWinds Vulnerability with Crowdstrike](https://www.crowdstrike.com/blog/tech-center/assess-solarwinds/)
+1. [Palo Alto's UNIT42: SolarStorm Timeline - Details of the Software Supply-Chain Attack](https://unit42.paloaltonetworks.com/solarstorm-supply-chain-attack-timeline/)
+1. [SentinelLabs: SolarWinds - Understanding & Detecting the SUPERNOVA Webshell Trojan](https://labs.sentinelone.com/solarwinds-understanding-detecting-the-supernova-webshell-trojan/)
+1. [Check Point Research: SUNBURST, TEARDROP and the NetSec New Normal](https://research.checkpoint.com/2020/sunburst-teardrop-and-the-netsec-new-normal/)
