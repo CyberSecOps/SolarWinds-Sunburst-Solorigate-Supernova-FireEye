@@ -35,6 +35,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [Sunburst Malware Overview](https://advantage.mandiant.com/malware/malware--4d299cfd-ffd7-5e46-b30c-cc88ac5a57c1)
 1. [Sunburst Malware Profile](https://advantage.mandiant.com/reports/20-00025662)
 1. [Teardrop Malware Overview](https://advantage.mandiant.com/malware/malware--3baa3d65-a3fe-5284-a3ab-8007fff7fe78)
+1. [Mandiant UNC2452 - Highly Evasive Attacker LEverages Supply Chain to Compromise Targets Presentation Slides](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/Technical%20Guidance%20%26%20Analysis/Mandiant%20UNC2452%20-%20Highly%20Evasive%20Attacker%20LEverages%20Supply%20Chain%20to%20Compromise%20Targets%20-%20Presentation.pdf)
 ### Microsoft
 1. [Solorigate Resource Center](https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/)
 1. [Important steps for customers to protect themselves from recent nation-state cyberattacks](https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/)
