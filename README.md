@@ -1,28 +1,28 @@
-# SolarWinds-Sunburst-Solorigate-Supernova-FireEye
+# **SolarWinds-Sunburst-Solorigate-Supernova-FireEye**
 Resources related to the SolarWinds supply chain breach, connected to the FireEye breach, that identified Sunburst and Supernova. Attribution hasn't been confirmed and FireEye have associated with campaign UNC2452, with several media outlets reporting intelligence agencies are attributing the attack to Russian intelligence (SVR). 
 
-## News & Media Articles
-1. [ZDNet: A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
-1. [TheCyberWire: Cozy Bear's attack on FireEye affected more than one company, and was based on a compromised SolarWinds update](https://thecyberwire.com/newsletters/daily-briefing/9/239)
-1. [CRN: Crowdstrike Fends Off Attack Attempted By SolarWinds Hackers](https://www.crn.com/news/security/crowdstrike-fends-off-attack-attempted-by-solarwinds-hackers?itc=refresh)
-1. [Reuters: Exclusive - Microsoft breached in suspected Russian hack using SolarWinds](https://uk.reuters.com/article/us-global-cyber-microsoft-idUKKBN28R3BY)
-1. [Reuters: Experts who wrestled with SolarWinds hackers say cleanup could take months - or longer](https://www.reuters.com/article/us-global-cyber-usa-solarwinds-idUSKBN28Y1K3)
-1. [CyberScoop: Microsoft alerts Crowdstrike of hackers' attempted break-in](https://www.cyberscoop.com/crowdstrike-solarwinds-targeted-microsoft/)
-1. [CyberScoop: NSA warns defense contractors of potential SolarWinds fallout](https://www.cyberscoop.com/nsa-warns-defense-contractors-solarwinds-fallout-vmware/)
+## **News & Media Articles**
+1. [**ZDNet**: A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
+1. [**TheCyberWire**: Cozy Bear's attack on FireEye affected more than one company, and was based on a compromised SolarWinds update](https://thecyberwire.com/newsletters/daily-briefing/9/239)
+1. [**CRN**: Crowdstrike Fends Off Attack Attempted By SolarWinds Hackers](https://www.crn.com/news/security/crowdstrike-fends-off-attack-attempted-by-solarwinds-hackers?itc=refresh)
+1. [**Reuters**: Exclusive - Microsoft breached in suspected Russian hack using SolarWinds](https://uk.reuters.com/article/us-global-cyber-microsoft-idUKKBN28R3BY)
+1. [**Reuters**: Experts who wrestled with SolarWinds hackers say cleanup could take months - or longer](https://www.reuters.com/article/us-global-cyber-usa-solarwinds-idUSKBN28Y1K3)
+1. [**CyberScoop**: Microsoft alerts Crowdstrike of hackers' attempted break-in](https://www.cyberscoop.com/crowdstrike-solarwinds-targeted-microsoft/)
+1. [**CyberScoop**: NSA warns defense contractors of potential SolarWinds fallout](https://www.cyberscoop.com/nsa-warns-defense-contractors-solarwinds-fallout-vmware/)
 1. [The Intercept: SolarWinds Hack Infected Critical Infrastructure](https://theintercept.com/2020/12/24/solarwinds-hack-power-infrastructure/)
-1. [Securelist: Sunburst - connecting the dots in the DNS requests](https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/)
-1. [Reuters: Suspected Russian hackers used Microsoft vendors to breach customers](https://www.reuters.com/article/us-global-cyber-usa-idUSKBN28Y1BF)
-1. [Bleeping Computer: The SolarWinds cyberattack - The hack victims and what we know](https://www.bleepingcomputer.com/news/security/the-solarwinds-cyberattack-the-hack-the-victims-and-what-we-know/)
-1. [Security Week: Continuous Updates: Everything You Need to Know About the SolarWinds Attack](https://www.securityweek.com/continuous-updates-everything-you-need-know-about-solarwinds-attack)
-1. [Security Week: SolarWinds Likely Hacked at Least One Year Before Breach Discovery](https://www.securityweek.com/solarwinds-likely-hacked-least-one-year-breach-discovery)
-1. [Security Week: New Zero-Day, Malware Indicate Second Group May Have Targeted SolarWinds](https://www.securityweek.com/new-zero-day-malware-indicate-second-group-may-have-targeted-solarwinds)
-1. [Security Week: SolarWinds Taps Firm Started by Ex-CISA Chief Chris Krebs, Former Facebook CSO Alex Stamos](https://www.securityweek.com/solarwinds-taps-firm-launched-cisa-chief-chris-krebs-former-facebook-cso-alex-stamos)
-1. [Schneier: Russia's SolarWinds Attack](https://www.schneier.com/blog/archives/2020/12/russias-solarwinds-attack.html)
-1. [Forbes: 1,500 SolarWinds Customers Are Exposing Themselves To Hackers As 'Russian' Espionage Continues](https://www.forbes.com/sites/thomasbrewster/2021/01/06/1500-solarwinds-customers-are-exposing-themselves-to-hackers-as-russian-espionage-continues/)
-## Technical Guidance & Analysis
-### SolarWinds
+1. [**Securelist**: Sunburst - connecting the dots in the DNS requests](https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/)
+1. [**Reuters**: Suspected Russian hackers used Microsoft vendors to breach customers](https://www.reuters.com/article/us-global-cyber-usa-idUSKBN28Y1BF)
+1. [**Bleeping Computer**: The SolarWinds cyberattack - The hack victims and what we know](https://www.bleepingcomputer.com/news/security/the-solarwinds-cyberattack-the-hack-the-victims-and-what-we-know/)
+1. [**Security Week**: Continuous Updates: Everything You Need to Know About the SolarWinds Attack](https://www.securityweek.com/continuous-updates-everything-you-need-know-about-solarwinds-attack)
+1. [**Security Week**: SolarWinds Likely Hacked at Least One Year Before Breach Discovery](https://www.securityweek.com/solarwinds-likely-hacked-least-one-year-breach-discovery)
+1. [**Security Week**: New Zero-Day, Malware Indicate Second Group May Have Targeted SolarWinds](https://www.securityweek.com/new-zero-day-malware-indicate-second-group-may-have-targeted-solarwinds)
+1. [**Security Week**: SolarWinds Taps Firm Started by Ex-CISA Chief Chris Krebs, Former Facebook CSO Alex Stamos](https://www.securityweek.com/solarwinds-taps-firm-launched-cisa-chief-chris-krebs-former-facebook-cso-alex-stamos)
+1. [**Schneier**: Russia's SolarWinds Attack](https://www.schneier.com/blog/archives/2020/12/russias-solarwinds-attack.html)
+1. [**Forbes**: 1,500 SolarWinds Customers Are Exposing Themselves To Hackers As 'Russian' Espionage Continues](https://www.forbes.com/sites/thomasbrewster/2021/01/06/1500-solarwinds-customers-are-exposing-themselves-to-hackers-as-russian-espionage-continues/)
+## **Technical Guidance & Analysis**
+### **SolarWinds**
 1. [Security Advisory](https://www.solarwinds.com/securityadvisory)
-### FireEye
+### **FireEye**
 1. [Sunburst Malware](https://www.fireeye.com/current-threats/sunburst-malware.html) 
 1. [Sunburst Additional Technical Details](https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html)
 1. [Global Intrusion Campaign Leverages Software Supply Chain Compromise](https://www.fireeye.com/blog/products-and-services/2020/12/global-intrusion-campaign-leverages-software-supply-chain-compromise.html)
@@ -36,7 +36,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [Sunburst Malware Overview](https://advantage.mandiant.com/malware/malware--4d299cfd-ffd7-5e46-b30c-cc88ac5a57c1)
 1. [Sunburst Malware Profile](https://advantage.mandiant.com/reports/20-00025662)
 1. [Teardrop Malware Overview](https://advantage.mandiant.com/malware/malware--3baa3d65-a3fe-5284-a3ab-8007fff7fe78)
-### Microsoft
+### **Microsoft**
 1. [Solorigate Resource Center](https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/)
 1. [Important steps for customers to protect themselves from recent nation-state cyberattacks](https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/)
 1. [Ensuring customers are protected from Solorigate](https://www.microsoft.com/security/blog/2020/12/15/ensuring-customers-are-protected-from-solorigate/)
@@ -46,21 +46,21 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [SolarWinds Post-Compromise Hunting with Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/solarwinds-post-compromise-hunting-with-azure-sentinel/ba-p/1995095)
 1. [Understanding "Solorigate's" Identity IOC's - for Identity Vendors and their customers](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610)
 1. [Azure AD workbook to help you assess Solorigate risk](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718)
-### CISA / US-CERT
+### **CISA / US-CERT**
 1. [AA20-252A: Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
 1. [AA21-008A: Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://us-cert.cisa.gov/ncas/alerts/aa21-008a)
-### NCSC
+### **NCSC**
 1. [NCSC Enhanced Guidance on SolarWinds Incident: TLP Amber](https://share.cisp.org.uk/community/ncsc-publications/blog/2020/12/21/enhanced-guidance-on-solarwinds-incident)
 ### NSA
 1. [Detecting Abuse of Authentication Mechanisms](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/Files/NSA%20-%20Detecting%20Abuse%20of%20Authentication%20Mechanisms.PDF)
-### Other Security Vendors
-1. [Recorded Future: SolarWinds Attribution - Are We Getting Ahead of Ourselves?](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/Files/SolarWinds%20Attribution%20-%20Are%20We%20Getting%20Ahead%20of%20Ourselves%20(Recorded%20Future).pdf)
-1. [Recorded Future: SolarWinds: What the Intelligence Tells Us](https://www.recordedfuture.com/solarwinds-attack-update/)
-1. [Splunk: Using Splunk to Detect Sunburst Backdoor](https://www.splunk.com/en_us/blog/security/sunburst-backdoor-detections-in-splunk.html)
-1. [Splunk: A Golden SAML Journey - SolarWinds Continued](https://www.splunk.com/en_us/blog/security/a-golden-saml-journey-solarwinds-continued.html)
-1. [Volexity: Responding to the SolarWinds Breach - Detect, Prevent, and Remediate the Dark Halo Supply Chain Attack](https://www.volexity.com/blog/2020/12/16/responding-to-the-solarwinds-breach/)
-1. [Volexity: Dark Halo Leverages SolarWinds Compromise to Breach Organizations](https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/)
-1. [Crowdstrike: Assessing the SolarWinds Vulnerability with Crowdstrike](https://www.crowdstrike.com/blog/tech-center/assess-solarwinds/)
-1. [Palo Alto's UNIT42: SolarStorm Timeline - Details of the Software Supply-Chain Attack](https://unit42.paloaltonetworks.com/solarstorm-supply-chain-attack-timeline/)
-1. [SentinelLabs: SolarWinds - Understanding & Detecting the SUPERNOVA Webshell Trojan](https://labs.sentinelone.com/solarwinds-understanding-detecting-the-supernova-webshell-trojan/)
-1. [Check Point Research: SUNBURST, TEARDROP and the NetSec New Normal](https://research.checkpoint.com/2020/sunburst-teardrop-and-the-netsec-new-normal/)
+### **Other Security Vendors**
+1. [**Recorded Future**: SolarWinds Attribution - Are We Getting Ahead of Ourselves?](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/Files/SolarWinds%20Attribution%20-%20Are%20We%20Getting%20Ahead%20of%20Ourselves%20(Recorded%20Future).pdf)
+1. [**Recorded Future**: SolarWinds: What the Intelligence Tells Us](https://www.recordedfuture.com/solarwinds-attack-update/)
+1. [**Splunk**: Using Splunk to Detect Sunburst Backdoor](https://www.splunk.com/en_us/blog/security/sunburst-backdoor-detections-in-splunk.html)
+1. [**Splunk**: A Golden SAML Journey - SolarWinds Continued](https://www.splunk.com/en_us/blog/security/a-golden-saml-journey-solarwinds-continued.html)
+1. [**Volexity**: Responding to the SolarWinds Breach - Detect, Prevent, and Remediate the Dark Halo Supply Chain Attack](https://www.volexity.com/blog/2020/12/16/responding-to-the-solarwinds-breach/)
+1. [**Volexity****: Dark Halo Leverages SolarWinds Compromise to Breach Organizations](https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/)
+1. [**Crowdstrike**: Assessing the SolarWinds Vulnerability with Crowdstrike](https://www.crowdstrike.com/blog/tech-center/assess-solarwinds/)
+1. [**Palo Alto's UNIT42**: SolarStorm Timeline - Details of the Software Supply-Chain Attack](https://unit42.paloaltonetworks.com/solarstorm-supply-chain-attack-timeline/)
+1. [**SentinelLabs**: SolarWinds - Understanding & Detecting the SUPERNOVA Webshell Trojan](https://labs.sentinelone.com/solarwinds-understanding-detecting-the-supernova-webshell-trojan/)
+1. [**Check Point Research**: SUNBURST, TEARDROP and the NetSec New Normal](https://research.checkpoint.com/2020/sunburst-teardrop-and-the-netsec-new-normal/)
