@@ -71,11 +71,11 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Fortinet FortiGuard Labs**: [What We Have Learned So Far about the "Sunburst"-SolarWinds Hack](https://www.fortinet.com/blog/threat-research/what-we-have-learned-so-far-about-the-sunburst-solarwinds-hack)
 1. **TrustedSec**: [SolarWinds Backdoor (Sunburst) Incident Response Playbook](https://www.trustedsec.com/blog/solarwinds-backdoor-sunburst-incident-response-playbook/)
 1. **TrustedSec**: [SolarWinds Orion and UNC2452 - Summary and Recommendations](https://www.trustedsec.com/blog/solarwinds-orion-and-unc2452-summary-and-recommendations/)
+1. **Netresec**: [Reassembling Victim Domain Fragments from SUNBURST DNS](https://www.netresec.com/?page=Blog&month=2020-12&post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS)
 ### **Other Security Researchers**
 1. **SimeonOnSecurity.ch**: [SolarWinds Orion Supply Chain Compromised, C2, and Mitigations](https://simeononsecurity.ch/github/solarwinds-orion-mitigations/)
 1. **SimeonOnSecurity.ch**: [GitHub - SolarWinds Sunburst Countermeasures](https://github.com/simeononsecurity/SolarWinds-SunBurst-Countermeasures)
 1. **Carnegie Mellon CERT Coordination Center**: [Vulnerability Note VU#843464 SolarWinds Orion API authentication bypass allows remote code execution](https://kb.cert.org/vuls/id/843464)
-1. **Netresec**: [Reassembling Victim Domain Fragments from SUNBURST DNS](https://www.netresec.com/?page=Blog&month=2020-12&post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS)
 ## **Tools**
 1. **2igosha**: [SUNBURST DGA decoder](https://github.com/2igosha/sunburst_dga)
 1. **CISA**: [Sparrow.ps1](https://github.com/cisagov/Sparrow)
