@@ -19,6 +19,8 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Security Week**: [SolarWinds Taps Firm Started by Ex-CISA Chief Chris Krebs, Former Facebook CSO Alex Stamos](https://www.securityweek.com/solarwinds-taps-firm-launched-cisa-chief-chris-krebs-former-facebook-cso-alex-stamos)
 1. **Schneier**: [Russia's SolarWinds Attack](https://www.schneier.com/blog/archives/2020/12/russias-solarwinds-attack.html)
 1. **Forbes**: [1,500 SolarWinds Customers Are Exposing Themselves To Hackers As 'Russian' Espionage Continues](https://www.forbes.com/sites/thomasbrewster/2021/01/06/1500-solarwinds-customers-are-exposing-themselves-to-hackers-as-russian-espionage-continues/)
+1. **Security Affairs**: [CISA revealed that threat actors behind the SolarWinds hack also used password guessing and password spraying in its attacks](https://securityaffairs.co/wordpress/113210/cyber-warfare-2/solarwinds-hacker-techniques-cisa.html)
+1. **Security Boulevard**: [How X.509 Certificates Were Involved in SolarWinds Attack | Keyfactor](https://securityboulevard.com/2020/12/how-x-509-certificates-were-involved-in-solarwinds-attack-keyfactor/)
 ## **Technical Guidance & Analysis**
 ### **SolarWinds**
 1. [Security Advisory](https://www.solarwinds.com/securityadvisory)
@@ -73,6 +75,17 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **SimeonOnSecurity.ch**: [SolarWinds Orion Supply Chain Compromised, C2, and Mitigations](https://simeononsecurity.ch/github/solarwinds-orion-mitigations/)
 1. **SimeonOnSecurity.ch**: [GitHub - SolarWinds Sunburst Countermeasures](https://github.com/simeononsecurity/SolarWinds-SunBurst-Countermeasures)
 1. **Carnegie Mellon CERT Coordination Center**: [Vulnerability Note VU#843464 SolarWinds Orion API authentication bypass allows remote code execution](https://kb.cert.org/vuls/id/843464)
+## **Tools**
+1. **2igosha**: [SUNBURST DGA decoder](https://github.com/2igosha/sunburst_dga)
+1. **CISA**: [Sparrow.ps1](https://github.com/cisagov/Sparrow)
+1. **Command Post Technologies**: [SolarWinds Exploit Hash Hunter](https://github.com/Command-Post-Technologies/Solarwinds-exploit-hash-hunter)
+1. **Crowdstrike**: [Crowdstrike Launches Free Tool to Identify and Help Mitigate Risks in Azure Active Directory](https://www.crowdstrike.com/blog/crowdstrike-launches-free-tool-to-identify-and-help-mitigate-risks-in-azure-active-directory/?source=content_type%253Areact%7Cfirst_level_url%253Anews%7Csection%253Amain_content%7Cbutton%253Abody_link)
+1. **Crowdstrike**: [Crowdstrike Reporting Tool for Azure (CRT)](https://github.com/CrowdStrike/CRT)
+1. **Crowdstrike**: [CRT (Crowdstrike Reporting Tool for Azure)](https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/)
+1. **FireEye**: [FireEye Mandiant SunBurst Countermeasures](https://github.com/fireeye/sunburst_countermeasures)
+1. **JoeW**: [SolarWinds IOC Scanner](https://github.com/JoeW-SCG/SolarWindsIOCScanner)
+1. **Microsoft**: [Protecting Microsoft 365 from on-premise attacks](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/protecting-microsoft-365-from-on-premises-attacks/ba-p/1751754)
+1. **Mubix**: [SolarFlare Release: Password Dumper for SolarWinds Orion](https://malicious.link/post/2020/solarflare-release-password-dumper-for-solarwinds-orion/)
 ## **Other Useful Resources**
 ### **YouTube**
 1. **TeachJing**: [Animated SolarWinds Breach Attack Flow - EP1](https://www.youtube.com/watch?v=b67Onrkj7PM)
