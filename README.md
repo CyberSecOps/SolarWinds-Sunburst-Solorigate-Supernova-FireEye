@@ -86,5 +86,6 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Colin Hardy**: [SUNBURST SolarWinds Malware - Tools, Tactics and Methods to get you started with Reverse Engineering](https://www.youtube.com/watch?v=JoMwrkijTZ8)
 1. **SANS Institute**: [SANS Emergency Webcast: What you need to know about the SolarWinds Supply-Chain Attack](https://www.youtube.com/watch?v=qP3LQNsjKWw)
 ### **GitHub**
-**Ean Meyer**: [SolarWinds Vulnerability Info](https://github.com/eanmeyer/SolarwindsVulnerablityInfo)
-**Subfission**: [SUNBURST Data Aggregation](https://github.com/subfission/SUNBURST-Data-Aggregation)
+1. **Ean Meyer**: [SolarWinds Vulnerability Info](https://github.com/eanmeyer/SolarwindsVulnerablityInfo)
+1. **Subfission**: [SUNBURST Data Aggregation](https://github.com/subfission/SUNBURST-Data-Aggregation)
+1. **Will Oram**: [Azure AD Incident Response - note for understanding the techniques used by solarWinds actor to facilitate long-term access to Microsoft environments](https://github.com/WillOram/AzureAD-incident-response)
