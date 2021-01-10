@@ -49,9 +49,9 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [Understanding "Solorigate's" Identity IOC's - for Identity Vendors and their customers](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610)
 1. [Azure AD workbook to help you assess Solorigate risk](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718)
 ### **CISA / US-CERT / DHS**
-1. [AA20-252A: Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
-1. [AA21-008A: Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://us-cert.cisa.gov/ncas/alerts/aa21-008a)
-1. [**Emergency Directive 21-01**: Mitigate SolarWinds Orion Code Compromise](https://cyber.dhs.gov/ed/21-01/)
+1. **AA20-252A**: [Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
+1. **AA21-008A**: [Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://us-cert.cisa.gov/ncas/alerts/aa21-008a)
+1. **Emergency Directive 21-01**: [Mitigate SolarWinds Orion Code Compromise](https://cyber.dhs.gov/ed/21-01/)
 ### **NCSC**
 1. [NCSC Enhanced Guidance on SolarWinds Incident: TLP Amber](https://share.cisp.org.uk/community/ncsc-publications/blog/2020/12/21/enhanced-guidance-on-solarwinds-incident)
 ### NSA
