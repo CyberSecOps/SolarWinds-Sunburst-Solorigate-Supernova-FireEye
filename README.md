@@ -78,6 +78,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Carnegie Mellon CERT Coordination Center**: [Vulnerability Note VU#843464 SolarWinds Orion API authentication bypass allows remote code execution](https://kb.cert.org/vuls/id/843464)
 ## **Tools**
 1. **2igosha**: [SUNBURST DGA decoder](https://github.com/2igosha/sunburst_dga)
+1. **RedDrip7**: [SunBurst DGA Decode Script](https://github.com/RedDrip7/SunBurst_DGA_Decode)
 1. **CISA**: [Sparrow.ps1](https://github.com/cisagov/Sparrow)
 1. **Command Post Technologies**: [SolarWinds Exploit Hash Hunter](https://github.com/Command-Post-Technologies/Solarwinds-exploit-hash-hunter)
 1. **Crowdstrike**: [Crowdstrike Launches Free Tool to Identify and Help Mitigate Risks in Azure Active Directory](https://www.crowdstrike.com/blog/crowdstrike-launches-free-tool-to-identify-and-help-mitigate-risks-in-azure-active-directory/?source=content_type%253Areact%7Cfirst_level_url%253Anews%7Csection%253Amain_content%7Cbutton%253Abody_link)
