@@ -12,6 +12,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **CyberScoop**: [NSA warns defense contractors of potential SolarWinds fallout](https://www.cyberscoop.com/nsa-warns-defense-contractors-solarwinds-fallout-vmware/)
 1. **The Intercept**: [SolarWinds Hack Infected Critical Infrastructure](https://theintercept.com/2020/12/24/solarwinds-hack-power-infrastructure/)
 1. **Securelist**: [Sunburst - connecting the dots in the DNS requests](https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/)
+1. **Securelist**: [Sunburst backdoor - code overlaps with Kazuar](https://securelist.com/sunburst-backdoor-kazuar/99981/)
 1. **Bleeping Computer**: [The SolarWinds cyberattack - The hack victims and what we know](https://www.bleepingcomputer.com/news/security/the-solarwinds-cyberattack-the-hack-the-victims-and-what-we-know/)
 1. **Security Week**: [Continuous Updates: Everything You Need to Know About the SolarWinds Attack](https://www.securityweek.com/continuous-updates-everything-you-need-know-about-solarwinds-attack)
 1. **Security Week**: [SolarWinds Likely Hacked at Least One Year Before Breach Discovery](https://www.securityweek.com/solarwinds-likely-hacked-least-one-year-breach-discovery)
@@ -20,6 +21,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Schneier**: [Russia's SolarWinds Attack](https://www.schneier.com/blog/archives/2020/12/russias-solarwinds-attack.html)
 1. **Forbes**: [1,500 SolarWinds Customers Are Exposing Themselves To Hackers As 'Russian' Espionage Continues](https://www.forbes.com/sites/thomasbrewster/2021/01/06/1500-solarwinds-customers-are-exposing-themselves-to-hackers-as-russian-espionage-continues/)
 1. **Security Affairs**: [CISA revealed that threat actors behind the SolarWinds hack also used password guessing and password spraying in its attacks](https://securityaffairs.co/wordpress/113210/cyber-warfare-2/solarwinds-hacker-techniques-cisa.html)
+1. **Security Affairs**: [SolarWinds hackers also used common hacker techniques, CISA revealed](https://securityaffairs.co/wordpress/113210/cyber-warfare-2/solarwinds-hacker-techniques-cisa.html)
 1. **Security Boulevard**: [How X.509 Certificates Were Involved in SolarWinds Attack | Keyfactor](https://securityboulevard.com/2020/12/how-x-509-certificates-were-involved-in-solarwinds-attack-keyfactor/)
 ## **Technical Guidance & Analysis**
 ### **SolarWinds**
