@@ -25,6 +25,9 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Security Affairs**: [CISA revealed that threat actors behind the SolarWinds hack also used password guessing and password spraying in its attacks](https://securityaffairs.co/wordpress/113210/cyber-warfare-2/solarwinds-hacker-techniques-cisa.html)
 1. **Security Affairs**: [SolarWinds hackers also used common hacker techniques, CISA revealed](https://securityaffairs.co/wordpress/113210/cyber-warfare-2/solarwinds-hacker-techniques-cisa.html)
 1. **Security Boulevard**: [How X.509 Certificates Were Involved in SolarWinds Attack | Keyfactor](https://securityboulevard.com/2020/12/how-x-509-certificates-were-involved-in-solarwinds-attack-keyfactor/)
+1. **Jetbrains**: [Statement on the story from The New York Times regarding JetBrains and SolarWinds](https://blog.jetbrains.com/teamcity/2021/01/statement-on-the-story-from-the-new-york-times-regarding-jetbrains-and-solarwinds/) 
+1. **Jetbrains**: [An Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/07/an-update-on-solarwinds/) 
+1. **Jetbrains**: [January 8th Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/08/january-8th-update-on-solarwinds/) 
 ## **Technical Guidance & Analysis**
 ### **SolarWinds**
 1. [Security Advisory](https://www.solarwinds.com/securityadvisory)
