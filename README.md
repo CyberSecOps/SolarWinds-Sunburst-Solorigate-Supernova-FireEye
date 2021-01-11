@@ -74,6 +74,8 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **TrustedSec**: [SolarWinds Backdoor (Sunburst) Incident Response Playbook](https://www.trustedsec.com/blog/solarwinds-backdoor-sunburst-incident-response-playbook/)
 1. **TrustedSec**: [SolarWinds Orion and UNC2452 - Summary and Recommendations](https://www.trustedsec.com/blog/solarwinds-orion-and-unc2452-summary-and-recommendations/)
 1. **Netresec**: [Reassembling Victim Domain Fragments from SUNBURST DNS](https://www.netresec.com/?page=Blog&month=2020-12&post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS)
+1. **Immersive Labs**: [Feel the heat of SUNBURST with Immersive Labs (so your business won't have to)](https://www.immersivelabs.com/resources/blog/feel-the-heat-of-sunburst-with-immersive-labs-so-your-business-wont-have-to/?utm_content=149597037&utm_medium=social&utm_source=twitter&hss_channel=tw-3998992517)
+1. **Immersive Labs**: [SUNBURST - When the sun bursts: responding to global cyber events](https://www.immersivelabs.com/resources/blog/when-the-sun-bursts-responding-to-global-cyber-events/)
 ### **Other Security Researchers**
 1. **SimeonOnSecurity.ch**: [SolarWinds Orion Supply Chain Compromised, C2, and Mitigations](https://simeononsecurity.ch/github/solarwinds-orion-mitigations/)
 1. **SimeonOnSecurity.ch**: [GitHub - SolarWinds Sunburst Countermeasures](https://github.com/simeononsecurity/SolarWinds-SunBurst-Countermeasures)
