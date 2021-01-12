@@ -1,6 +1,21 @@
 # **SolarWinds-Sunburst-Solorigate-Supernova-FireEye**
 Resources related to the SolarWinds supply chain breach, connected to the FireEye breach, that identified Sunburst and Supernova. Attribution hasn't been confirmed and FireEye have associated with campaign UNC2452, with several media outlets reporting intelligence agencies are attributing the attack to Russian intelligence (SVR). 
 
+## **Contents**
+* [News & Media Articles](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#news--media-articles)
+* [Technical Guidance & Analysis](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#technical-guidance--analysis)
+  * [SolarWinds](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#solarwinds)
+  * [FireEye](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#fireeye)
+  * [CISA / US-CERT / DHS](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#cisa--us-cert--dhs)
+  * [NCSC](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#ncsc)
+  * [NSA](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#nsa)
+  * [Crowdstrike](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#crowdstrike)
+  * [Other Security Vendors](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#other-security-vendors)
+  * [Other Security Researchers](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#other-security-researchers)
+* [Tools](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#tools)
+* [Other Useful Resources](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#other-useful-resources)
+  * [YouTube](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#youtube)
+  * [GitHub](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#github)
 ## **News & Media Articles**
 1. **ZDNet**: [A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
 1. **ZDNet**: [CISA: SolarWinds hackers also used password guessing to breach targets](https://www.zdnet.com/article/cisa-solarwinds-hackers-also-used-password-guessing-to-breach-targets/)
@@ -100,6 +115,8 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **TrustedSec**: [SolarWinds Orion and UNC2452 - Summary and Recommendations](https://www.trustedsec.com/blog/solarwinds-orion-and-unc2452-summary-and-recommendations/)
 1. **Netresec**: [Reassembling Victim Domain Fragments from SUNBURST DNS](https://www.netresec.com/?page=Blog&month=2020-12&post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS)
 1. **Netresec**: [Robust Indicators of Compromise for SUNBURST](https://www.netresec.com/?page=Blog&month=2021-01&post=Robust-Indicators-of-Compromise-for-SUNBURST)
+1. **Netresec**: [Finding Targeted SUNBURST Victims with pDNS](https://www.netresec.com/?page=Blog&month=2021-01&post=Finding-Targeted-SUNBURST-Victims-with-pDNS)
+1. **Netresec**: [Extracting Security Products from SUNBURST DNS Beacons](https://www.netresec.com/?page=Blog&month=2020-12&post=Extracting-Security-Products-from-SUNBURST-DNS-Beacons)
 1. **Immersive Labs**: [Feel the heat of SUNBURST with Immersive Labs (so your business won't have to)](https://www.immersivelabs.com/resources/blog/feel-the-heat-of-sunburst-with-immersive-labs-so-your-business-wont-have-to/?utm_content=149597037&utm_medium=social&utm_source=twitter&hss_channel=tw-3998992517)
 1. **Immersive Labs**: [SUNBURST - When the sun bursts: responding to global cyber events](https://www.immersivelabs.com/resources/blog/when-the-sun-bursts-responding-to-global-cyber-events/)
 ### **Other Security Researchers**
