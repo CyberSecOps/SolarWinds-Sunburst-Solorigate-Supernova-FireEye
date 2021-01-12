@@ -1,5 +1,5 @@
 # **SolarWinds-Sunburst-Solorigate-Supernova-FireEye**
-Resources related to the SolarWinds supply chain breach, connected to the FireEye breach, that identified Sunburst and Supernova. Attribution hasn't been confirmed and FireEye have associated with campaign UNC2452, with several media outlets reporting intelligence agencies are attributing the attack to Russian intelligence (SVR). 
+Resources related to the SolarWinds supply chain breach, connected to the FireEye breach, that identified Sunburst and Supernova. Attribution hasn't been confirmed and FireEye have associated with campaign UNC2452, with several media outlets reporting intelligence agencies are attributing the attack to Russian intelligence. 
 
 ![Attack Timeline - Overview](https://orangematter.solarwinds.com/wp-content/uploads/2021/01/TimelineGraphic8.jpg)
 ## **Contents**
