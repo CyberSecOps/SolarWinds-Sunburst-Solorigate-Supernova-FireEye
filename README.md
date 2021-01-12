@@ -1,6 +1,8 @@
 # **SolarWinds-Sunburst-Solorigate-Supernova-FireEye**
 Resources related to the SolarWinds supply chain breach, connected to the FireEye breach, that identified Sunburst and Supernova. Attribution hasn't been confirmed and FireEye have associated with campaign UNC2452, with several media outlets reporting intelligence agencies are attributing the attack to Russian intelligence (SVR). 
 
+![Attack Timeline - Overview](https://orangematter.solarwinds.com/wp-content/uploads/2021/01/TimelineGraphic8.jpg)
+
 ## **Contents**
 * [News & Media Articles](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#news--media-articles)
 * [Technical Guidance & Analysis](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#technical-guidance--analysis)
@@ -62,7 +64,6 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [Our Commitment to Cooperation](https://orangematter.solarwinds.com/2020/12/29/our-commitment-to-cooperation/)
 1. [Our Plan for a Safer SolarWinds and Customer Community](https://orangematter.solarwinds.com/2021/01/07/our-plan-for-a-safer-solarwinds-and-customer-community/)
 1. [New Findings From Our Investigation of SUNBURST](https://orangematter.solarwinds.com/2021/01/11/new-findings-from-our-investigation-of-sunburst/)
-![Attack Timeline - Overview](https://orangematter.solarwinds.com/wp-content/uploads/2021/01/TimelineGraphic8.jpg)
 ### **FireEye**
 1. [Sunburst Malware](https://www.fireeye.com/current-threats/sunburst-malware.html) 
 1. [Sunburst Additional Technical Details](https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html)
