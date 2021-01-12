@@ -3,11 +3,13 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 
 ## **News & Media Articles**
 1. **ZDNet**: [A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
+1. **ZDNet**: [CISA: SolarWinds hackers also used password guessing to breach targets](https://www.zdnet.com/article/cisa-solarwinds-hackers-also-used-password-guessing-to-breach-targets/)
 1. **TheCyberWire**: [Cozy Bear's attack on FireEye affected more than one company, and was based on a compromised SolarWinds update](https://thecyberwire.com/newsletters/daily-briefing/9/239)
 1. **CRN**: [Crowdstrike Fends Off Attack Attempted By SolarWinds Hackers](https://www.crn.com/news/security/crowdstrike-fends-off-attack-attempted-by-solarwinds-hackers?itc=refresh)
 1. **Reuters**: [Exclusive - Microsoft breached in suspected Russian hack using SolarWinds](https://uk.reuters.com/article/us-global-cyber-microsoft-idUKKBN28R3BY)
 1. **Reuters**: [Experts who wrestled with SolarWinds hackers say cleanup could take months - or longer](https://www.reuters.com/article/us-global-cyber-usa-solarwinds-idUSKBN28Y1K3)
 1. **Reuters**: [Suspected Russian hackers used Microsoft vendors to breach customers](https://www.reuters.com/article/us-global-cyber-usa-idUSKBN28Y1BF)
+1. **Reuters**: [SolarWinds hackers linked to known Russian spying tools, investigators say](https://www.reuters.com/article/global-cyber-solarwinds/solarwinds-hackers-linked-to-known-russian-spying-tools-investigators-say-idINKBN29G16Z)
 1. **CyberScoop**: [Microsoft alerts Crowdstrike of hackers' attempted break-in](https://www.cyberscoop.com/crowdstrike-solarwinds-targeted-microsoft/)
 1. **CyberScoop**: [NSA warns defense contractors of potential SolarWinds fallout](https://www.cyberscoop.com/nsa-warns-defense-contractors-solarwinds-fallout-vmware/)
 1. **The Intercept**: [SolarWinds Hack Infected Critical Infrastructure](https://theintercept.com/2020/12/24/solarwinds-hack-power-infrastructure/)
@@ -26,9 +28,18 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Security Affairs**: [CISA revealed that threat actors behind the SolarWinds hack also used password guessing and password spraying in its attacks](https://securityaffairs.co/wordpress/113210/cyber-warfare-2/solarwinds-hacker-techniques-cisa.html)
 1. **Security Affairs**: [SolarWinds hackers also used common hacker techniques, CISA revealed](https://securityaffairs.co/wordpress/113210/cyber-warfare-2/solarwinds-hacker-techniques-cisa.html)
 1. **Security Boulevard**: [How X.509 Certificates Were Involved in SolarWinds Attack | Keyfactor](https://securityboulevard.com/2020/12/how-x-509-certificates-were-involved-in-solarwinds-attack-keyfactor/)
+1. **Security Boulevard**: [Hackers Didn’t Only Use SolarWinds to Break In, Says CISA](https://securityboulevard.com/2021/01/hackers-didnt-only-use-solarwinds-says-cisa/)
 1. **Jetbrains**: [Statement on the story from The New York Times regarding JetBrains and SolarWinds](https://blog.jetbrains.com/teamcity/2021/01/statement-on-the-story-from-the-new-york-times-regarding-jetbrains-and-solarwinds/) 
 1. **Jetbrains**: [An Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/07/an-update-on-solarwinds/) 
 1. **Jetbrains**: [January 8th Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/08/january-8th-update-on-solarwinds/) 
+1. **Wired**: [The SolarWinds Hackers Shared Tricks With a Notorious Russian Spy Group](https://www.wired.com/story/solarwinds-russia-hackers-turla-malware/)
+1. **The Guardian**: [DoJ confirms email accounts breached by SolarWinds hackers](https://www.theguardian.com/technology/2021/jan/06/doj-email-systems-solarwinds-hackers)
+1. **Financial Times**: [SolarWinds cyber attack linked to tools used by Russian hacking group](https://www.ft.com/content/e1b247d5-ef53-4e82-afc3-9e3c2d7c5e2c)
+1. **CNN**: [SolarWinds hackers gave themselves top administrative privileges to spy on victims undetected, DHS says](https://edition.cnn.com/2021/01/08/politics/solarwinds-russia-hack-cisa-bulletin/index.html)
+1. **arsTECHNICA**: [SolarWinds malware has “curious” ties to Russian-speaking hackers](https://arstechnica.com/information-technology/2021/01/solarwinds-malware-has-curious-ties-to-russian-speaking-hackers/)
+1. **cna**: [SolarWinds hackers linked to known Russian spying tools, investigators say](https://www.channelnewsasia.com/news/business/solarwinds-hackers-linked-to-known-russian-spying-tools--investigators-say-13937836)
+1. **techradar**: [SolarWinds hackers also guessed passwords of many victims](https://www.techradar.com/uk/news/solarwinds-hackers-also-guessed-passwords-of-many-victims)
+1. **FCW**: [CISA: Hackers access to federal networks without SolarWinds](https://fcw.com/articles/2021/01/07/cisa-usg-hack-new-vector.aspx)
 ## **Technical Guidance & Analysis**
 ### **SolarWinds**
 1. [Security Advisory](https://www.solarwinds.com/securityadvisory)
@@ -57,7 +68,8 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [Understanding "Solorigate's" Identity IOC's - for Identity Vendors and their customers](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610)
 1. [Azure AD workbook to help you assess Solorigate risk](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718)
 ### **CISA / US-CERT / DHS**
-1. **AA20-252A**: [Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
+1. [Supply Chain Compromise](https://www.cisa.gov/supply-chain-compromise)
+1. **AA20-352A**: [Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
 1. **AA21-008A**: [Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://us-cert.cisa.gov/ncas/alerts/aa21-008a)
 1. **Emergency Directive 21-01**: [Mitigate SolarWinds Orion Code Compromise](https://cyber.dhs.gov/ed/21-01/)
 ### **NCSC**
