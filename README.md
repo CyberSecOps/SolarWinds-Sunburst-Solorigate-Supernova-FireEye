@@ -56,6 +56,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **cna**: [SolarWinds hackers linked to known Russian spying tools, investigators say](https://www.channelnewsasia.com/news/business/solarwinds-hackers-linked-to-known-russian-spying-tools--investigators-say-13937836)
 1. **techradar**: [SolarWinds hackers also guessed passwords of many victims](https://www.techradar.com/uk/news/solarwinds-hackers-also-guessed-passwords-of-many-victims)
 1. **FCW**: [CISA: Hackers access to federal networks without SolarWinds](https://fcw.com/articles/2021/01/07/cisa-usg-hack-new-vector.aspx)
+1. **Market Watch**: [SolarWinds has found and reverse engineered 'highly sophisticated and malicious' code used in recent cyberattack](https://www.marketwatch.com/story/solarwinds-has-found-and-reverse-engineered-highly-sophisticated-and-malicious-code-used-in-recent-cyberattack-2021-01-12)
 ## **Technical Guidance & Analysis**
 ### **SolarWinds**
 1. [Security Advisory](https://www.solarwinds.com/securityadvisory)
