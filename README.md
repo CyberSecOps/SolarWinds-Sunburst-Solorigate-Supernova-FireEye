@@ -100,7 +100,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 ### **NCSC**
 1. [NCSC statement on the SolarWinds compromise](https://www.ncsc.gov.uk/news/ncsc-statement-on-solarwinds-compromise)
 1. [NCSC Enhanced Guidance on SolarWinds Incident: TLP Amber](https://share.cisp.org.uk/community/ncsc-publications/blog/2020/12/21/enhanced-guidance-on-solarwinds-incident)
-###**UK's ICO**
+### **UK's ICO**
 1. [UK organisations using SolarWinds Orion platform should check whether personal data has been affected](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2020/12/uk-organisations-using-solarwinds-orion-platform-should-check-whether-personal-data-has-been-affected/)
 ### NSA
 1. [Detecting Abuse of Authentication Mechanisms](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/Files/NSA%20-%20Detecting%20Abuse%20of%20Authentication%20Mechanisms.PDF)
