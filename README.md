@@ -18,6 +18,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
   * [YouTube](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#youtube)
   * [GitHub](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#github)
 ## **News & Media Articles**
+1. **BBC News**: [CES 2021: Microsoft's Brad Smith slams SolarWinds 'indiscriminate assault'](https://www.bbc.co.uk/news/technology-55649488)
 1. **ZDNet**: [A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
 1. **ZDNet**: [CISA: SolarWinds hackers also used password guessing to breach targets](https://www.zdnet.com/article/cisa-solarwinds-hackers-also-used-password-guessing-to-breach-targets/)
 1. **TheCyberWire**: [Cozy Bear's attack on FireEye affected more than one company, and was based on a compromised SolarWinds update](https://thecyberwire.com/newsletters/daily-briefing/9/239)
@@ -45,9 +46,6 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Security Affairs**: [SolarWinds hackers also used common hacker techniques, CISA revealed](https://securityaffairs.co/wordpress/113210/cyber-warfare-2/solarwinds-hacker-techniques-cisa.html)
 1. **Security Boulevard**: [How X.509 Certificates Were Involved in SolarWinds Attack | Keyfactor](https://securityboulevard.com/2020/12/how-x-509-certificates-were-involved-in-solarwinds-attack-keyfactor/)
 1. **Security Boulevard**: [Hackers Didn’t Only Use SolarWinds to Break In, Says CISA](https://securityboulevard.com/2021/01/hackers-didnt-only-use-solarwinds-says-cisa/)
-1. **Jetbrains**: [Statement on the story from The New York Times regarding JetBrains and SolarWinds](https://blog.jetbrains.com/teamcity/2021/01/statement-on-the-story-from-the-new-york-times-regarding-jetbrains-and-solarwinds/) 
-1. **Jetbrains**: [An Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/07/an-update-on-solarwinds/) 
-1. **Jetbrains**: [January 8th Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/08/january-8th-update-on-solarwinds/) 
 1. **Wired**: [The SolarWinds Hackers Shared Tricks With a Notorious Russian Spy Group](https://www.wired.com/story/solarwinds-russia-hackers-turla-malware/)
 1. **The Guardian**: [DoJ confirms email accounts breached by SolarWinds hackers](https://www.theguardian.com/technology/2021/jan/06/doj-email-systems-solarwinds-hackers)
 1. **Financial Times**: [SolarWinds cyber attack linked to tools used by Russian hacking group](https://www.ft.com/content/e1b247d5-ef53-4e82-afc3-9e3c2d7c5e2c)
@@ -57,6 +55,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **techradar**: [SolarWinds hackers also guessed passwords of many victims](https://www.techradar.com/uk/news/solarwinds-hackers-also-guessed-passwords-of-many-victims)
 1. **FCW**: [CISA: Hackers access to federal networks without SolarWinds](https://fcw.com/articles/2021/01/07/cisa-usg-hack-new-vector.aspx)
 1. **Market Watch**: [SolarWinds has found and reverse engineered 'highly sophisticated and malicious' code used in recent cyberattack](https://www.marketwatch.com/story/solarwinds-has-found-and-reverse-engineered-highly-sophisticated-and-malicious-code-used-in-recent-cyberattack-2021-01-12)
+1. **Barron's**: [The SolarWinds Hack Was Huge. Here’s Why JPMorgan Is Defending the Stock.](https://www.barrons.com/articles/the-solarwinds-hack-was-huge-jpmorgan-is-defending-the-stock-51610645288)
 ## **Technical Guidance & Analysis**
 ### **SolarWinds**
 1. [Security Advisory](https://www.solarwinds.com/securityadvisory)
@@ -124,6 +123,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Katie Nickels**: [Twitter: A brief thread on the @Crowdstrike blog on SUNSPOT...](https://threadreaderapp.com/thread/1348779428852150274.html)
 1. **SimeonOnSecurity.ch**: [SolarWinds Orion Supply Chain Compromised, C2, and Mitigations](https://simeononsecurity.ch/github/solarwinds-orion-mitigations/)
 1. **SimeonOnSecurity.ch**: [GitHub - SolarWinds Sunburst Countermeasures](https://github.com/simeononsecurity/SolarWinds-SunBurst-Countermeasures)
+1. **z3r0trust**: [SUNBURST Malware Used Digital Steganography](https://z3r0trust.medium.com/sunburst-malware-used-digital-steganography-4ece0040bcaa)
 1. **Carnegie Mellon CERT Coordination Center**: [Vulnerability Note VU#843464 SolarWinds Orion API authentication bypass allows remote code execution](https://kb.cert.org/vuls/id/843464)
 ## **Tools**
 1. **2igosha**: [SUNBURST DGA decoder](https://github.com/2igosha/sunburst_dga)
@@ -153,3 +153,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Ean Meyer**: [SolarWinds Vulnerability Info](https://github.com/eanmeyer/SolarwindsVulnerablityInfo)
 1. **Subfission**: [SUNBURST Data Aggregation](https://github.com/subfission/SUNBURST-Data-Aggregation)
 1. **Will Oram**: [Azure AD Incident Response - note for understanding the techniques used by solarWinds actor to facilitate long-term access to Microsoft environments](https://github.com/WillOram/AzureAD-incident-response)
+### **Other Vendors**
+1. **Jetbrains**: [Statement on the story from The New York Times regarding JetBrains and SolarWinds](https://blog.jetbrains.com/teamcity/2021/01/statement-on-the-story-from-the-new-york-times-regarding-jetbrains-and-solarwinds/) 
+1. **Jetbrains**: [An Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/07/an-update-on-solarwinds/) 
+1. **Jetbrains**: [January 8th Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/08/january-8th-update-on-solarwinds/) 
