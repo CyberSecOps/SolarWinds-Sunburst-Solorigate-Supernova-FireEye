@@ -17,6 +17,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 * [Other Useful Resources](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#other-useful-resources)
   * [YouTube](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#youtube)
   * [GitHub](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#github)
+  * [Other Vendors](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye#other-vendors)
 ## **News & Media Articles**
 1. **BBC News**: [CES 2021: Microsoft's Brad Smith slams SolarWinds 'indiscriminate assault'](https://www.bbc.co.uk/news/technology-55649488)
 1. **ZDNet**: [A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
@@ -27,6 +28,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Reuters**: [Experts who wrestled with SolarWinds hackers say cleanup could take months - or longer](https://www.reuters.com/article/us-global-cyber-usa-solarwinds-idUSKBN28Y1K3)
 1. **Reuters**: [Suspected Russian hackers used Microsoft vendors to breach customers](https://www.reuters.com/article/us-global-cyber-usa-idUSKBN28Y1BF)
 1. **Reuters**: [SolarWinds hackers linked to known Russian spying tools, investigators say](https://www.reuters.com/article/global-cyber-solarwinds/solarwinds-hackers-linked-to-known-russian-spying-tools-investigators-say-idINKBN29G16Z)
+1. **Infosecurity**: [New Malware Implant Discovered as Part of SolarWinds Attack](https://www.infosecurity-magazine.com/news/third-malware-strain-discovered/)
 1. **CyberScoop**: [Microsoft alerts Crowdstrike of hackers' attempted break-in](https://www.cyberscoop.com/crowdstrike-solarwinds-targeted-microsoft/)
 1. **CyberScoop**: [NSA warns defense contractors of potential SolarWinds fallout](https://www.cyberscoop.com/nsa-warns-defense-contractors-solarwinds-fallout-vmware/)
 1. **The Intercept**: [SolarWinds Hack Infected Critical Infrastructure](https://theintercept.com/2020/12/24/solarwinds-hack-power-infrastructure/)
@@ -51,11 +53,14 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Financial Times**: [SolarWinds cyber attack linked to tools used by Russian hacking group](https://www.ft.com/content/e1b247d5-ef53-4e82-afc3-9e3c2d7c5e2c)
 1. **CNN**: [SolarWinds hackers gave themselves top administrative privileges to spy on victims undetected, DHS says](https://edition.cnn.com/2021/01/08/politics/solarwinds-russia-hack-cisa-bulletin/index.html)
 1. **arsTECHNICA**: [SolarWinds malware has “curious” ties to Russian-speaking hackers](https://arstechnica.com/information-technology/2021/01/solarwinds-malware-has-curious-ties-to-russian-speaking-hackers/)
+1. **The Street**: [SolarWinds Says It Has Found Source of Massive Cyberattack](https://www.thestreet.com/investing/solarwinds-swi-source-cyberattack)
 1. **cna**: [SolarWinds hackers linked to known Russian spying tools, investigators say](https://www.channelnewsasia.com/news/business/solarwinds-hackers-linked-to-known-russian-spying-tools--investigators-say-13937836)
 1. **techradar**: [SolarWinds hackers also guessed passwords of many victims](https://www.techradar.com/uk/news/solarwinds-hackers-also-guessed-passwords-of-many-victims)
 1. **FCW**: [CISA: Hackers access to federal networks without SolarWinds](https://fcw.com/articles/2021/01/07/cisa-usg-hack-new-vector.aspx)
 1. **Market Watch**: [SolarWinds has found and reverse engineered 'highly sophisticated and malicious' code used in recent cyberattack](https://www.marketwatch.com/story/solarwinds-has-found-and-reverse-engineered-highly-sophisticated-and-malicious-code-used-in-recent-cyberattack-2021-01-12)
 1. **Barron's**: [The SolarWinds Hack Was Huge. Here’s Why JPMorgan Is Defending the Stock.](https://www.barrons.com/articles/the-solarwinds-hack-was-huge-jpmorgan-is-defending-the-stock-51610645288)
+1. **Fox Business**: [Cybersecurity firm identifies third SolarWinds hack malware strain](https://www.foxbusiness.com/technology/cybersecurity-firm-third-malware-strain-solarwinds-hack)
+1. **Fox Business**: [SolarWinds shareholder files class-action lawsuit alleging leadership 'misrepresented and failed to disclose' information about hack](https://www.foxbusiness.com/markets/solarwinds-shareholder-files-class-action-lawsuit)
 ## **Technical Guidance & Analysis**
 ### **SolarWinds**
 1. [Security Advisory](https://www.solarwinds.com/securityadvisory)
@@ -93,7 +98,10 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **AA21-008A**: [Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://us-cert.cisa.gov/ncas/alerts/aa21-008a)
 1. **Emergency Directive 21-01**: [Mitigate SolarWinds Orion Code Compromise](https://cyber.dhs.gov/ed/21-01/)
 ### **NCSC**
+1. [NCSC statement on the SolarWinds compromise](https://www.ncsc.gov.uk/news/ncsc-statement-on-solarwinds-compromise)
 1. [NCSC Enhanced Guidance on SolarWinds Incident: TLP Amber](https://share.cisp.org.uk/community/ncsc-publications/blog/2020/12/21/enhanced-guidance-on-solarwinds-incident)
+###**UK's ICO**
+1. [UK organisations using SolarWinds Orion platform should check whether personal data has been affected](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2020/12/uk-organisations-using-solarwinds-orion-platform-should-check-whether-personal-data-has-been-affected/)
 ### NSA
 1. [Detecting Abuse of Authentication Mechanisms](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/Files/NSA%20-%20Detecting%20Abuse%20of%20Authentication%20Mechanisms.PDF)
 ### **Crowdstrike**
