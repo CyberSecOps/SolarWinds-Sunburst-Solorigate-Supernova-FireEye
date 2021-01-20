@@ -35,6 +35,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Securelist**: [Sunburst - connecting the dots in the DNS requests](https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/)
 1. **Securelist**: [Sunburst backdoor - code overlaps with Kazuar](https://securelist.com/sunburst-backdoor-kazuar/99981/)
 1. **Bleeping Computer**: [The SolarWinds cyberattack - The hack victims and what we know](https://www.bleepingcomputer.com/news/security/the-solarwinds-cyberattack-the-hack-the-victims-and-what-we-know/)
+1. **BleepingComputer** [Malwarebytes says SolarWinds hackers accessed its internal emails](https://www.bleepingcomputer.com/news/security/malwarebytes-says-solarwinds-hackers-accessed-its-internal-emails/)
 1. **Security Week**: [Continuous Updates: Everything You Need to Know About the SolarWinds Attack](https://www.securityweek.com/continuous-updates-everything-you-need-know-about-solarwinds-attack)
 1. **Security Week**: [SolarWinds Likely Hacked at Least One Year Before Breach Discovery](https://www.securityweek.com/solarwinds-likely-hacked-least-one-year-breach-discovery)
 1. **Security Week**: [New Zero-Day, Malware Indicate Second Group May Have Targeted SolarWinds](https://www.securityweek.com/new-zero-day-malware-indicate-second-group-may-have-targeted-solarwinds)
