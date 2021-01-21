@@ -22,6 +22,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **BBC News**: [CES 2021: Microsoft's Brad Smith slams SolarWinds 'indiscriminate assault'](https://www.bbc.co.uk/news/technology-55649488)
 1. **ZDNet**: [A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
 1. **ZDNet**: [CISA: SolarWinds hackers also used password guessing to breach targets](https://www.zdnet.com/article/cisa-solarwinds-hackers-also-used-password-guessing-to-breach-targets/)
+1. **ZDNet**: [Fourth malware strain discovered in SolarWinds incident](https://www.zdnet.com/article/fourth-malware-strain-discovered-in-solarwinds-incident/)
 1. **TheCyberWire**: [Cozy Bear's attack on FireEye affected more than one company, and was based on a compromised SolarWinds update](https://thecyberwire.com/newsletters/daily-briefing/9/239)
 1. **CRN**: [Crowdstrike Fends Off Attack Attempted By SolarWinds Hackers](https://www.crn.com/news/security/crowdstrike-fends-off-attack-attempted-by-solarwinds-hackers?itc=refresh)
 1. **Reuters**: [Exclusive - Microsoft breached in suspected Russian hack using SolarWinds](https://uk.reuters.com/article/us-global-cyber-microsoft-idUKKBN28R3BY)
@@ -50,6 +51,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Security Boulevard**: [How X.509 Certificates Were Involved in SolarWinds Attack | Keyfactor](https://securityboulevard.com/2020/12/how-x-509-certificates-were-involved-in-solarwinds-attack-keyfactor/)
 1. **Security Boulevard**: [Hackers Didn’t Only Use SolarWinds to Break In, Says CISA](https://securityboulevard.com/2021/01/hackers-didnt-only-use-solarwinds-says-cisa/)
 1. **Wired**: [The SolarWinds Hackers Shared Tricks With a Notorious Russian Spy Group](https://www.wired.com/story/solarwinds-russia-hackers-turla-malware/)
+1. **Wired**: [The SolarWinds Hackers Used Tactics Other Groups Will Copy](https://www.wired.com/story/solarwinds-hacker-methods-copycats/)
 1. **The Guardian**: [DoJ confirms email accounts breached by SolarWinds hackers](https://www.theguardian.com/technology/2021/jan/06/doj-email-systems-solarwinds-hackers)
 1. **Financial Times**: [SolarWinds cyber attack linked to tools used by Russian hacking group](https://www.ft.com/content/e1b247d5-ef53-4e82-afc3-9e3c2d7c5e2c)
 1. **CNN**: [SolarWinds hackers gave themselves top administrative privileges to spy on victims undetected, DHS says](https://edition.cnn.com/2021/01/08/politics/solarwinds-russia-hack-cisa-bulletin/index.html)
@@ -93,6 +95,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [SolarWinds Post-Compromise Hunting with Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/solarwinds-post-compromise-hunting-with-azure-sentinel/ba-p/1995095)
 1. [Understanding "Solorigate's" Identity IOC's - for Identity Vendors and their customers](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/understanding-quot-solorigate-quot-s-identity-iocs-for-identity/ba-p/2007610)
 1. [Azure AD workbook to help you assess Solorigate risk](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718)
+1. [Deep dive into the Solorigate second-stage activation: From SUNBURST to TEARDROP and Raindrop](https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
 ### **CISA / US-CERT / DHS**
 1. [Supply Chain Compromise](https://www.cisa.gov/supply-chain-compromise)
 1. **AA20-352A**: [Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
@@ -120,6 +123,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Check Point Research**: [SUNBURST, TEARDROP and the NetSec New Normal](https://research.checkpoint.com/2020/sunburst-teardrop-and-the-netsec-new-normal/)
 1. **Sygnia**: [Detection of Golden SAML attacks](https://www.sygnia.co/golden-saml-advisory)
 1. **Fortinet FortiGuard Labs**: [What We Have Learned So Far about the "Sunburst"-SolarWinds Hack](https://www.fortinet.com/blog/threat-research/what-we-have-learned-so-far-about-the-sunburst-solarwinds-hack)
+1. **Symantec/Broadcom**: [Raindrop: New Malware Discovered in SolarWinds Investigation](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-raindrop-malware)
 1. **TrustedSec**: [SolarWinds Backdoor (Sunburst) Incident Response Playbook](https://www.trustedsec.com/blog/solarwinds-backdoor-sunburst-incident-response-playbook/)
 1. **TrustedSec**: [SolarWinds Orion and UNC2452 - Summary and Recommendations](https://www.trustedsec.com/blog/solarwinds-orion-and-unc2452-summary-and-recommendations/)
 1. **Netresec**: [Reassembling Victim Domain Fragments from SUNBURST DNS](https://www.netresec.com/?page=Blog&month=2020-12&post=Reassembling-Victim-Domain-Fragments-from-SUNBURST-DNS)
@@ -133,6 +137,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **SimeonOnSecurity.ch**: [SolarWinds Orion Supply Chain Compromised, C2, and Mitigations](https://simeononsecurity.ch/github/solarwinds-orion-mitigations/)
 1. **SimeonOnSecurity.ch**: [GitHub - SolarWinds Sunburst Countermeasures](https://github.com/simeononsecurity/SolarWinds-SunBurst-Countermeasures)
 1. **z3r0trust**: [SUNBURST Malware Used Digital Steganography](https://z3r0trust.medium.com/sunburst-malware-used-digital-steganography-4ece0040bcaa)
+1. **@MalwareRE**: [Twitter Thread](https://threadreaderapp.com/thread/1351945613823381506.html)
 1. **Carnegie Mellon CERT Coordination Center**: [Vulnerability Note VU#843464 SolarWinds Orion API authentication bypass allows remote code execution](https://kb.cert.org/vuls/id/843464)
 ## **Tools**
 1. **2igosha**: [SUNBURST DGA decoder](https://github.com/2igosha/sunburst_dga)
@@ -142,10 +147,12 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Crowdstrike**: [Crowdstrike Launches Free Tool to Identify and Help Mitigate Risks in Azure Active Directory](https://www.crowdstrike.com/blog/crowdstrike-launches-free-tool-to-identify-and-help-mitigate-risks-in-azure-active-directory/?source=content_type%253Areact%7Cfirst_level_url%253Anews%7Csection%253Amain_content%7Cbutton%253Abody_link)
 1. **Crowdstrike**: [Crowdstrike Reporting Tool for Azure (CRT)](https://github.com/CrowdStrike/CRT)
 1. **Crowdstrike**: [CRT (Crowdstrike Reporting Tool for Azure)](https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/)
-1. **FireEye**: [FireEye Mandiant SunBurst Countermeasures](https://github.com/fireeye/sunburst_countermeasures)
+1. **FireEye/Mandiant**: [FireEye Mandiant SunBurst Countermeasures](https://github.com/fireeye/sunburst_countermeasures)
+1. **FireEye/Mandiant**: [Mandiant Azure AD Investigator](https://github.com/fireeye/Mandiant-Azure-AD-Investigator)
 1. **JoeW**: [SolarWinds IOC Scanner](https://github.com/JoeW-SCG/SolarWindsIOCScanner)
 1. **Microsoft**: [Protecting Microsoft 365 from on-premise attacks](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/protecting-microsoft-365-from-on-premises-attacks/ba-p/1751754)
 1. **Mubix**: [SolarFlare Release: Password Dumper for SolarWinds Orion](https://malicious.link/post/2020/solarflare-release-password-dumper-for-solarwinds-orion/)
+1. **Neo23x0**: [Sigma Rule: UNC2452 PowerShell pattern](https://github.com/Neo23x0/sigma/pull/1335/files)
 ## **Other Useful Resources**
 ### **YouTube**
 1. **TeachJing**: [Animated SolarWinds Breach Attack Flow - EP1](https://www.youtube.com/watch?v=b67Onrkj7PM)
