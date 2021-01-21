@@ -44,6 +44,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Security Week**: [Similarities Found Between Malware Used in SolarWinds Attack and Backdoor Linked to Turla Cyberspies](https://www.securityweek.com/malware-used-solarwinds-attack-linked-backdoor-attributed-turla-cyberspies) 
 1. **Security Week**: [Investigation Launched Into Role of JetBrains Product in SolarWinds Hack: Reports](https://www.securityweek.com/investigation-launched-role-jetbrains-product-solarwinds-hack-reports) 
 1. **Security Week**: [Kaspersky Connects SolarWinds Attack Code to Known Russian APT Group](https://www.securityweek.com/malware-used-solarwinds-attack-linked-backdoor-attributed-turla-cyberspies)
+1. **Security Week**: [Microsoft Details OPSEC, Anti-Forensic Techniques Used by SolarWinds Hackers](https://www.securityweek.com/microsoft-details-opsec-anti-forensic-techniques-used-solarwinds-hackers)
 1. **Schneier**: [Russia's SolarWinds Attack](https://www.schneier.com/blog/archives/2020/12/russias-solarwinds-attack.html)
 1. **Forbes**: [1,500 SolarWinds Customers Are Exposing Themselves To Hackers As 'Russian' Espionage Continues](https://www.forbes.com/sites/thomasbrewster/2021/01/06/1500-solarwinds-customers-are-exposing-themselves-to-hackers-as-russian-espionage-continues/)
 1. **Security Affairs**: [CISA revealed that threat actors behind the SolarWinds hack also used password guessing and password spraying in its attacks](https://securityaffairs.co/wordpress/113210/cyber-warfare-2/solarwinds-hacker-techniques-cisa.html)
