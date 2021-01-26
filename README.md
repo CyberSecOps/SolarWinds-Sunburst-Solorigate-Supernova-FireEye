@@ -23,6 +23,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **ZDNet**: [A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
 1. **ZDNet**: [CISA: SolarWinds hackers also used password guessing to breach targets](https://www.zdnet.com/article/cisa-solarwinds-hackers-also-used-password-guessing-to-breach-targets/)
 1. **ZDNet**: [Fourth malware strain discovered in SolarWinds incident](https://www.zdnet.com/article/fourth-malware-strain-discovered-in-solarwinds-incident/)
+1. **The Register**: [Microsoft SolarWinds analysis: Attackers hid inside Windows systems by wearing the skins of legit processes](https://www.theregister.com/2021/01/21/microsoft_solarwinds_deep_dive/)
 1. **TheCyberWire**: [Cozy Bear's attack on FireEye affected more than one company, and was based on a compromised SolarWinds update](https://thecyberwire.com/newsletters/daily-briefing/9/239)
 1. **CRN**: [Crowdstrike Fends Off Attack Attempted By SolarWinds Hackers](https://www.crn.com/news/security/crowdstrike-fends-off-attack-attempted-by-solarwinds-hackers?itc=refresh)
 1. **Reuters**: [Exclusive - Microsoft breached in suspected Russian hack using SolarWinds](https://uk.reuters.com/article/us-global-cyber-microsoft-idUKKBN28R3BY)
@@ -132,6 +133,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Netresec**: [Robust Indicators of Compromise for SUNBURST](https://www.netresec.com/?page=Blog&month=2021-01&post=Robust-Indicators-of-Compromise-for-SUNBURST)
 1. **Netresec**: [Finding Targeted SUNBURST Victims with pDNS](https://www.netresec.com/?page=Blog&month=2021-01&post=Finding-Targeted-SUNBURST-Victims-with-pDNS)
 1. **Netresec**: [Extracting Security Products from SUNBURST DNS Beacons](https://www.netresec.com/?page=Blog&month=2020-12&post=Extracting-Security-Products-from-SUNBURST-DNS-Beacons)
+1. **Netresec**: [Twenty-three SUNBURST Targets Identified](https://www.netresec.com/?page=Blog&month=2021-01&post=Twenty-three-SUNBURST-Targets-Identified)
 1. **Immersive Labs**: [Feel the heat of SUNBURST with Immersive Labs (so your business won't have to)](https://www.immersivelabs.com/resources/blog/feel-the-heat-of-sunburst-with-immersive-labs-so-your-business-wont-have-to/?utm_content=149597037&utm_medium=social&utm_source=twitter&hss_channel=tw-3998992517)
 1. **Immersive Labs**: [SUNBURST - When the sun bursts: responding to global cyber events](https://www.immersivelabs.com/resources/blog/when-the-sun-bursts-responding-to-global-cyber-events/)
 ### **Other Security Researchers**
