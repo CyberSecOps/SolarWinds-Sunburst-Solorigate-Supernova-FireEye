@@ -24,6 +24,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **ZDNet**: [A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
 1. **ZDNet**: [CISA: SolarWinds hackers also used password guessing to breach targets](https://www.zdnet.com/article/cisa-solarwinds-hackers-also-used-password-guessing-to-breach-targets/)
 1. **ZDNet**: [Fourth malware strain discovered in SolarWinds incident](https://www.zdnet.com/article/fourth-malware-strain-discovered-in-solarwinds-incident/)
+1. **ZDNet**: [Four security vendors disclose SolarWinds-related incidents](https://www.zdnet.com/article/four-security-vendors-disclose-solarwinds-related-incidents/)
 1. **The Register**: [Microsoft SolarWinds analysis: Attackers hid inside Windows systems by wearing the skins of legit processes](https://www.theregister.com/2021/01/21/microsoft_solarwinds_deep_dive/)
 1. **TheCyberWire**: [Cozy Bear's attack on FireEye affected more than one company, and was based on a compromised SolarWinds update](https://thecyberwire.com/newsletters/daily-briefing/9/239)
 1. **CRN**: [Crowdstrike Fends Off Attack Attempted By SolarWinds Hackers](https://www.crn.com/news/security/crowdstrike-fends-off-attack-attempted-by-solarwinds-hackers?itc=refresh)
