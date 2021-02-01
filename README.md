@@ -19,6 +19,8 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
   * [YouTube](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#youtube)
   * [GitHub](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#github)
   * [Other Vendors](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye#other-vendors)
+* [IOC's](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/README.md#iocs)
+  * [VirusTotal](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye#virustotal)
 ## **News & Media Articles**
 1. **BBC News**: [CES 2021: Microsoft's Brad Smith slams SolarWinds 'indiscriminate assault'](https://www.bbc.co.uk/news/technology-55649488)
 1. **ZDNet**: [A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
