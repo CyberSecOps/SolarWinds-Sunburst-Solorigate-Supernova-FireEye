@@ -163,8 +163,6 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Mubix**: [SolarFlare Release: Password Dumper for SolarWinds Orion](https://malicious.link/post/2020/solarflare-release-password-dumper-for-solarwinds-orion/)
 1. **Neo23x0**: [Sigma Rule: UNC2452 PowerShell pattern](https://github.com/Neo23x0/sigma/pull/1335/files)
 ## **Other Useful Resources**
-### **VirusTotal**
-1. [TEARDROP](https://www.virustotal.com/gui/file/b820e8a2057112d0ed73bd7995201dbed79a79e13c79d4bdad81a22f12387e07/detection)
 ### **YouTube**
 1. **TeachJing**: [Animated SolarWinds Breach Attack Flow - EP1](https://www.youtube.com/watch?v=b67Onrkj7PM)
 1. **TeachJing**: [SolarWinds Breach | Protecting from on-premises attacks | EP2](https://www.youtube.com/watch?v=8e4-MaB7Fyo)
@@ -184,3 +182,18 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Jetbrains**: [Statement on the story from The New York Times regarding JetBrains and SolarWinds](https://blog.jetbrains.com/teamcity/2021/01/statement-on-the-story-from-the-new-york-times-regarding-jetbrains-and-solarwinds/) 
 1. **Jetbrains**: [An Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/07/an-update-on-solarwinds/) 
 1. **Jetbrains**: [January 8th Update on SolarWinds](https://blog.jetbrains.com/blog/2021/01/08/january-8th-update-on-solarwinds/) 
+## **IOC's**
+### **VirusTotal**
+1. [TEARDROP](https://www.virustotal.com/gui/file/b820e8a2057112d0ed73bd7995201dbed79a79e13c79d4bdad81a22f12387e07/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/1817a5bf9c01035bcf8a975c9f1d94b0ce7f6a200339485d8f93859f8f6d730c/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/b820e8a2057112d0ed73bd7995201dbed79a79e13c79d4bdad81a22f12387e07/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/b10b4bb36fa94a11ece84691aa6341ae4d218a30fc64a84700ab9f916e15bf33/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/3bf939157f659e80bd9f5056aaa12edca9c2577e6cc3bedb85f7b0805259e991/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/834a0694c684c7db17da1e9ac06e655fe91ab5f928967e1e22a03d36c571a5d1/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/4965d3237e6535698dd3fd387a0b2b98136d256771d21b5fb85ce5cdbb232d20/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/6e4050c6a2d2e5e49606d96dd2922da480f2e0c70082cc7e54449a7dc0d20f8d/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/a589ce29f6b0b59857723d8ae03a4f7f8e38a60859215a4fc1180fb0456017bc/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/0201b92d3d877df4de0d109ce6f3d647cfde3ab9d881f8cddc10d4bb8e5f21ad/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/191a0fc897f798860c541f0e3fcd496f5d586f54c967d6e21621d974ebdd9de5/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/e8593c908f6ac1656d5261073be7df756b5dd5dd428742c090e2c0ad983df56d/detection)
+1. [TEARDROP](https://www.virustotal.com/gui/file/e8593c908f6ac1656d5261073be7df756b5dd5dd428742c090e2c0ad983df56d/detection)
