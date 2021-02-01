@@ -35,6 +35,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Infosecurity**: [New Malware Implant Discovered as Part of SolarWinds Attack](https://www.infosecurity-magazine.com/news/third-malware-strain-discovered/)
 1. **CyberScoop**: [Microsoft alerts Crowdstrike of hackers' attempted break-in](https://www.cyberscoop.com/crowdstrike-solarwinds-targeted-microsoft/)
 1. **CyberScoop**: [NSA warns defense contractors of potential SolarWinds fallout](https://www.cyberscoop.com/nsa-warns-defense-contractors-solarwinds-fallout-vmware/)
+1. **CyberScoop**: [After SolarWinds breach, lawmakers ask NSA for help in cracking Juniper cold case](https://www.cyberscoop.com/nsa-juniper-backdoor-wyden-espionage/)
 1. **The Intercept**: [SolarWinds Hack Infected Critical Infrastructure](https://theintercept.com/2020/12/24/solarwinds-hack-power-infrastructure/)
 1. **Securelist**: [Sunburst - connecting the dots in the DNS requests](https://securelist.com/sunburst-connecting-the-dots-in-the-dns-requests/99862/)
 1. **Securelist**: [Sunburst backdoor - code overlaps with Kazuar](https://securelist.com/sunburst-backdoor-kazuar/99981/)
@@ -60,6 +61,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Financial Times**: [SolarWinds cyber attack linked to tools used by Russian hacking group](https://www.ft.com/content/e1b247d5-ef53-4e82-afc3-9e3c2d7c5e2c)
 1. **CNN**: [SolarWinds hackers gave themselves top administrative privileges to spy on victims undetected, DHS says](https://edition.cnn.com/2021/01/08/politics/solarwinds-russia-hack-cisa-bulletin/index.html)
 1. **arsTECHNICA**: [SolarWinds malware has “curious” ties to Russian-speaking hackers](https://arstechnica.com/information-technology/2021/01/solarwinds-malware-has-curious-ties-to-russian-speaking-hackers/)
+1. **Council on Foreign Relations**: [Most Tools Failed to Detect the SolarWinds Malware. Those That Did Failed Too](https://www.cfr.org/blog/most-tools-failed-detect-solarwinds-malware-those-did-failed-too)
 1. **The Street**: [SolarWinds Says It Has Found Source of Massive Cyberattack](https://www.thestreet.com/investing/solarwinds-swi-source-cyberattack)
 1. **cna**: [SolarWinds hackers linked to known Russian spying tools, investigators say](https://www.channelnewsasia.com/news/business/solarwinds-hackers-linked-to-known-russian-spying-tools--investigators-say-13937836)
 1. **techradar**: [SolarWinds hackers also guessed passwords of many victims](https://www.techradar.com/uk/news/solarwinds-hackers-also-guessed-passwords-of-many-victims)
@@ -89,6 +91,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [Sunburst Malware Overview](https://advantage.mandiant.com/malware/malware--4d299cfd-ffd7-5e46-b30c-cc88ac5a57c1)
 1. [Sunburst Malware Profile](https://advantage.mandiant.com/reports/20-00025662)
 1. [Teardrop Malware Overview](https://advantage.mandiant.com/malware/malware--3baa3d65-a3fe-5284-a3ab-8007fff7fe78)
+1. [DebUNCing Attribution to Counter Threats More Effectively](https://www.brighttalk.com/webcast/7451/460961?utm_source=fireeye&utm_medium=email&utm_campaign=460961&mkt_tok=eyJpIjoiTkRJMk9Ua3lZMlV3WkRZNSIsInQiOiJtV2JERWFJYnBKMkxHS1FsVnpGN1U5NkYyNzZPcGU5dHRzK0xhMHpxSjMrXC9xWnNDMTZCMTFwcExITGxHamJHV0VsclJmVG41d1VCVCsrK3ZmY2c2T1hqSXFHUjZGUFFcL3FSOHM3TjArbVBcL09VSjlCQnZMaldQMUVEalk5OWJRcSJ9)
 ### **Microsoft**
 1. [Solorigate Resource Center](https://msrc-blog.microsoft.com/2020/12/21/december-21st-2020-solorigate-resource-center/)
 1. [Important steps for customers to protect themselves from recent nation-state cyberattacks](https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/)
@@ -160,6 +163,8 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Mubix**: [SolarFlare Release: Password Dumper for SolarWinds Orion](https://malicious.link/post/2020/solarflare-release-password-dumper-for-solarwinds-orion/)
 1. **Neo23x0**: [Sigma Rule: UNC2452 PowerShell pattern](https://github.com/Neo23x0/sigma/pull/1335/files)
 ## **Other Useful Resources**
+### **VirusTotal**
+1. [TEARDROP](https://www.virustotal.com/gui/file/b820e8a2057112d0ed73bd7995201dbed79a79e13c79d4bdad81a22f12387e07/detection)
 ### **YouTube**
 1. **TeachJing**: [Animated SolarWinds Breach Attack Flow - EP1](https://www.youtube.com/watch?v=b67Onrkj7PM)
 1. **TeachJing**: [SolarWinds Breach | Protecting from on-premises attacks | EP2](https://www.youtube.com/watch?v=8e4-MaB7Fyo)
