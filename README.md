@@ -35,6 +35,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **Reuters**: [Suspected Russian hackers used Microsoft vendors to breach customers](https://www.reuters.com/article/us-global-cyber-usa-idUSKBN28Y1BF)
 1. **Reuters**: [SolarWinds hackers linked to known Russian spying tools, investigators say](https://www.reuters.com/article/global-cyber-solarwinds/solarwinds-hackers-linked-to-known-russian-spying-tools-investigators-say-idINKBN29G16Z)
 1. **Infosecurity**: [New Malware Implant Discovered as Part of SolarWinds Attack](https://www.infosecurity-magazine.com/news/third-malware-strain-discovered/)
+1. **CyberScoop**: [All Articles tagged with SolarWinds](https://www.cyberscoop.com/tag/solarwinds/)
 1. **CyberScoop**: [Microsoft alerts Crowdstrike of hackers' attempted break-in](https://www.cyberscoop.com/crowdstrike-solarwinds-targeted-microsoft/)
 1. **CyberScoop**: [NSA warns defense contractors of potential SolarWinds fallout](https://www.cyberscoop.com/nsa-warns-defense-contractors-solarwinds-fallout-vmware/)
 1. **CyberScoop**: [After SolarWinds breach, lawmakers ask NSA for help in cracking Juniper cold case](https://www.cyberscoop.com/nsa-juniper-backdoor-wyden-espionage/)
