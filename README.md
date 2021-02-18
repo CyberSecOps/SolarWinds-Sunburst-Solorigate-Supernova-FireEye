@@ -123,6 +123,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. [Azure AD workbook to help you assess Solorigate risk](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-workbook-to-help-you-assess-solorigate-risk/ba-p/2010718)
 1. [Deep dive into the Solorigate second-stage activation: From SUNBURST to TEARDROP and Raindrop](https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/)
 1. [Strategies for Microsoft 365 to Defend Against UNC2452](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye/blob/main/Files/Strategies%20for%20Microsoft%20365%20to%20Defend%20Against%20UNC2452.pdf)
+2. [Microsoft Internal Solorigate Investigation – Final Update](https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/)
 ### **CISA / US-CERT / DHS**
 1. [Supply Chain Compromise](https://www.cisa.gov/supply-chain-compromise)
 1. **AA20-352A**: [Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
