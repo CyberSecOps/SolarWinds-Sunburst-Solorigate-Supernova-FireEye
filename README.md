@@ -169,6 +169,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
 1. **z3r0trust**: [SUNBURST Malware Used Digital Steganography](https://z3r0trust.medium.com/sunburst-malware-used-digital-steganography-4ece0040bcaa)
 1. **@MalwareRE**: [Twitter Thread](https://threadreaderapp.com/thread/1351945613823381506.html)
 1. **Carnegie Mellon CERT Coordination Center**: [Vulnerability Note VU#843464 SolarWinds Orion API authentication bypass allows remote code execution](https://kb.cert.org/vuls/id/843464)
+2. **Securehat**: [Extracting the Cobalt Strike Config from a TEARDROP Loader](https://blog.securehat.co.uk/malware-analysis/extracting-the-cobalt-strike-config-from-a-teardrop-loader)
 ## **Tools**
 1. **2igosha**: [SUNBURST DGA decoder](https://github.com/2igosha/sunburst_dga)
 1. **RedDrip7**: [SunBurst DGA Decode Script](https://github.com/RedDrip7/SunBurst_DGA_Decode)
