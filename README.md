@@ -23,7 +23,7 @@ Resources related to the SolarWinds supply chain breach, connected to the FireEy
   * [VirusTotal](https://github.com/CyberSecOps/SolarWinds-Sunburst-Solorigate-Supernova-FireEye#virustotal)
 ## **News & Media Articles**
 1. **BBC News**: [CES 2021: Microsoft's Brad Smith slams SolarWinds 'indiscriminate assault'](https://www.bbc.co.uk/news/technology-55649488)
-2. 1. **CBS News**: [SolarWinds: How Russian spies hacked the Justice, State, Treasury, Energy and Commerce Departments](https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/)
+2. **CBS News**: [SolarWinds: How Russian spies hacked the Justice, State, Treasury, Energy and Commerce Departments](https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/)
 3. **ZDNet**: [A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
 4. **ZDNet**: [CISA: SolarWinds hackers also used password guessing to breach targets](https://www.zdnet.com/article/cisa-solarwinds-hackers-also-used-password-guessing-to-breach-targets/)
 5. **ZDNet**: [Fourth malware strain discovered in SolarWinds incident](https://www.zdnet.com/article/fourth-malware-strain-discovered-in-solarwinds-incident/)
